@@ -1,4 +1,4 @@
-#Importante implementar en Google colab, cambiar api key y subir dentro de content una carpeta que sellame notebook y en ella el archivo al cual se quiere preguntar. 
+#Importante implementar en Google colab, cambiar api key que se obtiene desde Open AI y subir dentro de la carpeta content de colab una carpeta que se llame notebook y en ella el archivo al cual se quiere preguntar. 
 
 #Inicio celda 1
 
